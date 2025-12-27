@@ -1,0 +1,346 @@
+.navbar{
+         
+         height: 84.6px; 
+         border-bottom: 2px solid white;
+         background-color:rgb(54, 52, 52) ;     
+} 
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-left: 50px;
+    /* display: flex; 
+    justify-content: space-evenly; */
+
+}
+
+.navbar1{
+    background-color: rgb(227, 89, 24);
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: end;
+    font-size: 29px;
+    font-family:"century gothic wo5" sans-serif;
+     /* margin-right: 100px; */
+     color: white;
+     font-weight:1000px;
+   
+}
+
+
+.navbar2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(54, 52, 52);
+    width: 80%;
+
+}
+
+.ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar3{
+           background-color: rgb(243, 185, 9);  
+           height: 190px;
+           /* margin-bottom: 50px;  */
+           font-size: 18px;
+           font-family: sans-serif;
+           font-weight: bold;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+}
+
+.a{
+    color: rgb(227, 89, 24);
+    text-decoration: underline 1px black;
+  
+}
+
+.main{
+
+    height: 450px;
+    background-color: rgb(54, 52, 52);
+    display: flex;
+    justify-content: end;
+    position: relative;
+
+}
+
+
+
+.main1{
+    position: absolute;
+    
+   
+}
+ .out{
+     background-color: white;
+    color: red;
+     font-size: 55px; 
+    margin-bottom: -30px;
+    font-family: sans-serif ;
+    margin-right: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ 
+ }
+ 
+ .p{
+    color: white; 
+    position: absolute;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 270px;
+    margin-right: 780px;
+   
+ }
+
+ 
+
+ .box1{
+    font-family: sans-serif;
+ }
+
+ .h4{
+       margin-left: 50px;
+       margin-top: 60PX;
+       font-family: sans-serif;
+     
+ }
+
+ .ganpa{
+
+    margin-left: 10px;
+    margin-top: 60PX;
+  }
+
+ .part2{
+         margin-left: 70px;
+ }
+ 
+ .ganpa1{
+    margin-top: 100PX;
+    margin-left: -200px;
+ }
+
+ ul li::marker{
+    color:red;
+    
+} 
+
+.part3{
+    background-color: rgb(54, 52, 52);
+    height: 550px;
+    display: grid;
+    grid-template-columns: auto auto;
+    color: white;
+    font-family: sans-serif;
+ 
+}
+
+
+
+.h5{
+
+    background-color: white;
+    color:rgb(54, 52, 52);
+    width: 350px;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-left: 90px;
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: -50px;
+}
+
+.text1{
+
+    background-color: white;
+    color: red;
+    margin-top: 100px;
+    font-size: 25px;  
+}
+
+.text{
+       margin-top: 50px;
+}
+
+.dot{
+      margin: 60px 0px 50px 250px;
+}
+    
+.other{
+         display: flex;
+         justify-content: space-evenly;
+}
+
+.other2{
+            color: red;
+            margin-left: 50px;
+            font-family: sans-serif;
+            font-size: 60px;
+}
+  
+.other3{
+
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.other1{
+          font-family: sans-serif;
+}
+
+.std{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.std2{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 50px;
+}
+
+.std{
+  
+    height: 500px;
+    background-color: antiquewhite;
+}
+
+.std1{
+    background-color: orange;
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    margin: 50px 0px 0px 200px ;
+}
+
+.std3{
+    background-color: orange;
+    display: flex;
+    height: 90px;
+    width: 300px;
+    align-items: center;
+    border: 3px solid orange;
+    margin-top: 50px ;
+    margin-bottom: 5px;
+    margin-right: 150px;
+}
+
+.red{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    height: 500px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.red1{
+    height: 300px;
+    width: 900px;
+    background-color: rgb(54, 52, 52);
+    color: white;
+    font-size: 20px;
+ 
+}
+
+
+
+.red7{
+   position: absolute;
+   margin-top: -300px; 
+   margin-left: 700px;
+ 
+}
+
+.red2{
+    color: red;
+    font-size: 50px;
+    margin-left: 80px;
+}
+
+.red3{
+        margin-left: 80px;
+        margin-top: -50px;
+}
+
+.red4{
+
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: red;
+    margin-top: 20px;
+}
+
+.red6{
+       color: red;
+       margin-left: 450px;
+       margin-bottom: 30px;
+     
+}
+
+.red4{
+       
+    margin-left: 85px;
+  
+    }
+
+.blue{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.yellow{
+    height: 300px;
+    background-color:rgb(54, 52, 52) ;
+    /* display: grid;
+    grid-template-columns: auto auto; */
+    color: white;
+    font-family: sans-serif;
+}
+
+
+.yellow5{
+
+    margin-top: 65px;
+    margin-left: -30px;
+}
+.yellow1{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.yellow2{
+   
+    margin-top: 60px;
+
+}
+
+.yellow4{
+   margin-left: 200px;
+   margin-top: -100px;
+
+  
+}
+
+.yellow3{
+   
+  margin-top: 60px;
+   
+}
